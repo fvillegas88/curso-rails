@@ -37,6 +37,8 @@ gem 'jbuilder', '~> 2.5'
 
 
 gem 'bootstrap'
+gem 'carrierwave'
+gem 'mini_magick'
 
 
 group :development, :test do
